@@ -1,0 +1,19 @@
+*   48196f6 (HEAD -> main) Merge branch 'mydesign'
+|\  
+| * b70a005 (mydesign) Change cat eye color to blue for custom design
+|/  
+*   26b7476 (origin/main, origin/HEAD) Merge branch 'main' of https://github.com/Squashy401/L010A
+|\  
+| * fa54b86 (catears) Add ears to cat
+* |   9e58dae Merge branch 'addmouse'
+|\ \  
+| * | d407782 changed mouse text to EEK
+| * | c3cb515 added mouse
+| * | 84fc19c add mouse class and draw mouse
+| |/  
+* / c32f9af chnged to cat
+|/  
+*   fa46b5e Merge branch 'main' of https://github.com/Squashy401/L010A
+|\  
+| * 8b6bd6d Initial commit
+* 00a335f initial commit
